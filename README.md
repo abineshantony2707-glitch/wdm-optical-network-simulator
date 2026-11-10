@@ -1,2 +1,2 @@
-# Abinesh-Raj-A-S
-Design and Development of a Real-Time WDM Optical Network Monitoring and Performance Analysis System
+#Design and Development of a Real-Time WDM Optical Network Monitoring and Performance Analysis System
+Wavelength Division Multiplexing (WDM) sends many independent data channels through one optical fibre by assigning each a different wavelength of light. I built an interactive simulator in Python with a Streamlit dashboard to visualize how a WDM link works end to end and how its physical impairments affect performance.
